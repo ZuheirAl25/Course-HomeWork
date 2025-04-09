@@ -5,33 +5,38 @@ body{
     font-size: medium;
 }
 header{
-    background-color: rgba(34, 131, 53, 0.951);
+    background-color: orange;
 
 }
 nav{
-        background-color: rgb(92, 199, 206);
+        background-color: orange;
 }
 main{
-    background-color: aqua;
+    background-color: orange;
     font-size: large;
 }
 footer{
-    background-color: brown;
+    background-color: orange;
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
     font-variant: small-caps;
-    font-size: xx-large;
+    font-size: x-large;
 }
 li{
     display: inline;
-    /* width: 50%; */
+    color: white;
+    width: 50%;
 }
 h1{
     text-align: center;
-    font-style: oblique;
-    font-variant: small-caps;
-    color: rgb(36, 105, 166);
+    font-style: italic;
+    font-family:'Courier New', Courier, monospace;
+    color: white;
 }
 p{
-    /* line-height: 30%; */
+    line-height: 150%;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-style:italic;
+    font-size: normal;
 }
